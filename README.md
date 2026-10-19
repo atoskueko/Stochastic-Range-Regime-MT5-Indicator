@@ -2,6 +2,8 @@
 
 MetaTrader 5 adaptation of **Stochastic Range Regime [MarkitTick]**: stochastic range conditions plus a trend SMA, optional HTF/ADX confirmation, regime-colored candles, and virtual ATR entry/stop/target levels.
 
+<img width="1363" height="639" alt="Stochastic Range Regime" src="https://github.com/user-attachments/assets/c20b635a-03f0-41f9-9994-7a7032db6618" />
+
 ## Primary project page
 
 **Detailed MT5 documentation and chart examples:**
